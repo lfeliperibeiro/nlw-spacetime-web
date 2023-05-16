@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <h1>Hello World!</h1>
+    <div className={'bg-transparent text-2xl font-bold uppercase'}>
+      Hello World!
+    </div>
   )
 }
